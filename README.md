@@ -1,11 +1,10 @@
-# WD_A14_Responsive_Design_Maquetacion_Mobile_First
-Notas del curso de Responsive Design: Maquetación Mobile First de Platzi, dictado por el gran profesor Diego De Granda
+# WD_A15_Frontend_Developer
 
-Clases y apuntes del curso de Fundamentos de Bases de Datos para la escuela de Web Development de **Platzi**, dictado por el gran profesor Diego De Granda.
+Clases y apuntes del curso Frontend Developer para la escuela de Web Development de **Platzi**, dictado por la gran profesora Estefany Aguilar.
 
 - **Escuela: Web Development de Platzi**
-- **Profesor: Diego De Granda**
-- **Twitter: @degranda10**
+- **Profesor: Estefany Aguilar**
+- **Twitter: @teffcode**
 - **Apuntes: Alejandro Jorge González** 
 
 Recuerda que si quieres ver estos cursos a tráves de Platzi, puedes obtener un descuento con los siguientes links de referidos:
