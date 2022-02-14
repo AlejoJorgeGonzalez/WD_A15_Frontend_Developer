@@ -1,9 +1,9 @@
 # ¿Qué es HTML y CSS? ¿Para qué Sirven?
 
-![](imagenes/img01.png)
+![](images/img01.png)
 
-![](imagenes/img02.png)
+![](images/img02.png)
 
-![](imagenes/img03.png)
+![](images/img03.png)
 
-![](imagenes/img04.png)
+![](images/img04.png)
