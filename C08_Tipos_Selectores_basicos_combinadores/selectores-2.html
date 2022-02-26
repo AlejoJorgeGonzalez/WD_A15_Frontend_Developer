@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* Descendientes */
+        div p{
+            color: lime;
+        }
+        /* Hijo Directo */
+        div > div{
+            background: plum;
+        }
+        /* Clase */
+        .es {
+            background: red;
+        }
+        /* Elemento Adyacente */
+        div + section{
+            background: palevioletred;
+        }
+        /* General de Hermanos */
+        div ~ p{
+            color: powderblue;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div>
+            <p>Platzi</p>
+            <div class="es">Es</div>
+        </div>
+    </div>
+    <div>
+        Master
+    </div>
+    <p>Clase de Selectores</p>
+    <p>Clase de Selectores</p>
+    <section>
+        Es lo mejor
+    </section>
+</body>
+</html>
